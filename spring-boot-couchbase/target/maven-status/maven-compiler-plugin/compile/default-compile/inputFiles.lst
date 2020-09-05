@@ -1,0 +1,10 @@
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/repository/MyDomainReactiveRepository.java
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/connector/MyDomainConnector.java
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/models/Mydomain.java
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/routercontroller/MyDomainRouter.java
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/repository/MydomainRespository.java
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/models/Listofinfo.java
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/controller/HelloController.java
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/handler/MyDomainHandler.java
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/Application.java
+/Users/mtc-temp/testrepo/spring-boot-couchbase/src/main/java/com/example/springboot/config/CouchbaseConfig.java

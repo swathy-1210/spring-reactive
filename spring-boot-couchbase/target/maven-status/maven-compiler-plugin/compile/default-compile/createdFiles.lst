@@ -1,0 +1,12 @@
+com/example/springboot/connector/MyDomainConnector.class
+com/example/springboot/Application.class
+com/example/springboot/models/Mydomain.class
+com/example/springboot/repository/MydomainRespository.class
+com/example/springboot/models/Mydomain$MydomainBuilder.class
+com/example/springboot/repository/MyDomainReactiveRepository.class
+com/example/springboot/config/CouchbaseConfig.class
+com/example/springboot/handler/MyDomainHandler.class
+com/example/springboot/models/Listofinfo.class
+com/example/springboot/models/Listofinfo$ListofinfoBuilder.class
+com/example/springboot/controller/HelloController.class
+com/example/springboot/routercontroller/MyDomainRouter.class
